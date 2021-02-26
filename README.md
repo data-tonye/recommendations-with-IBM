@@ -1,6 +1,4 @@
 # Recommendations-with-IBM
-This project analysis Stack Overflow survey data for 2019. It gives insights into the people in the tech industry.
-
 ## Libraries used
 - Pandas
 - Numpy
